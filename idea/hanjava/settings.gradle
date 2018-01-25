@@ -1,0 +1,5 @@
+rootProject.name = 'hanjava'
+include 'algorithm'
+include 'datastructure'
+include 'algscommon'
+

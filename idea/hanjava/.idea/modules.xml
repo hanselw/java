@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/algorithm.iml" filepath="$PROJECT_DIR$/.idea/modules/algorithm.iml" group="algorithm" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/algorithm/algorithm_main.iml" filepath="$PROJECT_DIR$/.idea/modules/algorithm/algorithm_main.iml" group="algorithm" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/algorithm/algorithm_test.iml" filepath="$PROJECT_DIR$/.idea/modules/algorithm/algorithm_test.iml" group="algorithm" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/algscommon.iml" filepath="$PROJECT_DIR$/.idea/modules/algscommon.iml" group="algscommon" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/algscommon/algscommon_main.iml" filepath="$PROJECT_DIR$/.idea/modules/algscommon/algscommon_main.iml" group="algscommon" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/algscommon/algscommon_test.iml" filepath="$PROJECT_DIR$/.idea/modules/algscommon/algscommon_test.iml" group="algscommon" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/datastructure.iml" filepath="$PROJECT_DIR$/.idea/modules/datastructure.iml" group="datastructure" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/datastructure/datastructure_main.iml" filepath="$PROJECT_DIR$/.idea/modules/datastructure/datastructure_main.iml" group="datastructure" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/datastructure/datastructure_test.iml" filepath="$PROJECT_DIR$/.idea/modules/datastructure/datastructure_test.iml" group="datastructure" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hanjava.iml" filepath="$PROJECT_DIR$/.idea/modules/hanjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hanjava_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hanjava_main.iml" group="hanjava" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hanjava_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hanjava_test.iml" group="hanjava" />
+    </modules>
+  </component>
+</project>
